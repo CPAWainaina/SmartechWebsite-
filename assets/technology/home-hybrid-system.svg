@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+<rect width="1200" height="500" rx="24" fill="#f7fafc"/>
+<text x="60" y="58" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#0d1b2a">Home Solar + Battery</text>
+<text x="60" y="92" font-family="Arial,sans-serif" font-size="18" fill="#4b6070">Simplified illustration — final system design depends on the site and load.</text>
+<g font-family="Arial,sans-serif" text-anchor="middle">
+<rect x="70" y="180" width="190" height="120" rx="16" fill="#dceeff" stroke="#1a73b8" stroke-width="3"/><text x="165" y="230" font-size="22" font-weight="700" fill="#0d1b2a">Solar Array</text><text x="165" y="262" font-size="17" fill="#425466">PV panels</text>
+<rect x="360" y="180" width="190" height="120" rx="16" fill="#eef4fa" stroke="#0d1b2a" stroke-width="3"/><text x="455" y="230" font-size="22" font-weight="700" fill="#0d1b2a">Hybrid Inverter</text><text x="455" y="262" font-size="17" fill="#425466">Power conversion</text>
+<rect x="650" y="120" width="190" height="120" rx="16" fill="#e8f5e9" stroke="#3a9d46" stroke-width="3"/><text x="745" y="170" font-size="22" font-weight="700" fill="#0d1b2a">Battery Bank</text><text x="745" y="202" font-size="17" fill="#425466">Energy storage</text>
+<rect x="650" y="280" width="190" height="120" rx="16" fill="#fff4d6" stroke="#d39b1d" stroke-width="3"/><text x="745" y="330" font-size="22" font-weight="700" fill="#0d1b2a">Grid / Generator</text><text x="745" y="362" font-size="17" fill="#425466">Backup source</text>
+<rect x="940" y="180" width="190" height="120" rx="16" fill="#eaf0ff" stroke="#315b9a" stroke-width="3"/><text x="1035" y="230" font-size="22" font-weight="700" fill="#0d1b2a">Home Loads</text><text x="1035" y="262" font-size="17" fill="#425466">Lights &amp; appliances</text>
+</g>
+<g stroke="#1a73b8" stroke-width="5" fill="none" marker-end="url(#a)"><path d="M260 240H350"/><path d="M550 220H640"/><path d="M550 260H640"/><path d="M840 240H930"/></g>
+<defs><marker id="a" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#1a73b8"/></marker></defs>
+</svg>
