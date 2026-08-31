@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="t2 d2">
+<title id="t2">Battery storage bank illustration</title>
+<desc id="d2">Clean vector illustration of stacked lithium battery storage cabinets with charge indicators, Smartech Technologies brand style</desc>
+<defs>
+<linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#10151c"/>
+<stop offset="1" stop-color="#1c2733"/>
+</linearGradient>
+<linearGradient id="cab" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#2a3844"/>
+<stop offset="1" stop-color="#182028"/>
+</linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#bg2)"/>
+<g stroke="#1f6e68" stroke-width="2" opacity=".3">
+<path d="M0 120h1600M0 780h1600"/>
+</g>
+<rect x="0" y="780" width="1600" height="120" fill="#0c1015"/>
+<!-- three battery cabinets -->
+<g>
+<g transform="translate(230,260)">
+<rect width="300" height="500" rx="16" fill="url(#cab)" stroke="#3a5670" stroke-width="5"/>
+<rect x="30" y="40" width="240" height="60" rx="6" fill="#101820" stroke="#1f6e68" stroke-width="3"/>
+<circle cx="60" cy="70" r="9" fill="#3fbf8f"/>
+<circle cx="100" cy="70" r="9" fill="#3fbf8f"/>
+<circle cx="140" cy="70" r="9" fill="#dd8f31"/>
+<rect x="30" y="130" width="240" height="300" rx="6" fill="#0e161d" stroke="#2c3d4a" stroke-width="2"/>
+<rect x="50" y="150" width="200" height="34" rx="4" fill="#1f6e68" opacity=".8"/>
+<rect x="50" y="196" width="200" height="34" rx="4" fill="#1f6e68" opacity=".65"/>
+<rect x="50" y="242" width="200" height="34" rx="4" fill="#1f6e68" opacity=".5"/>
+<rect x="50" y="288" width="150" height="34" rx="4" fill="#1f6e68" opacity=".35"/>
+</g>
+<g transform="translate(570,220)">
+<rect width="340" height="560" rx="16" fill="url(#cab)" stroke="#dd8f31" stroke-width="6"/>
+<rect x="34" y="46" width="272" height="70" rx="6" fill="#101820" stroke="#dd8f31" stroke-width="3"/>
+<circle cx="70" cy="81" r="10" fill="#3fbf8f"/>
+<circle cx="115" cy="81" r="10" fill="#3fbf8f"/>
+<circle cx="160" cy="81" r="10" fill="#3fbf8f"/>
+<circle cx="205" cy="81" r="10" fill="#dd8f31"/>
+<rect x="34" y="150" width="272" height="360" rx="6" fill="#0e161d" stroke="#2c3d4a" stroke-width="2"/>
+<rect x="58" y="172" width="224" height="38" rx="4" fill="#dd8f31" opacity=".9"/>
+<rect x="58" y="222" width="224" height="38" rx="4" fill="#dd8f31" opacity=".75"/>
+<rect x="58" y="272" width="224" height="38" rx="4" fill="#dd8f31" opacity=".6"/>
+<rect x="58" y="322" width="224" height="38" rx="4" fill="#dd8f31" opacity=".45"/>
+<rect x="58" y="372" width="180" height="38" rx="4" fill="#dd8f31" opacity=".3"/>
+</g>
+<g transform="translate(1000,300)">
+<rect width="280" height="460" rx="16" fill="url(#cab)" stroke="#3a5670" stroke-width="5"/>
+<rect x="28" y="36" width="224" height="56" rx="6" fill="#101820" stroke="#1f6e68" stroke-width="3"/>
+<circle cx="56" cy="64" r="8" fill="#3fbf8f"/>
+<circle cx="92" cy="64" r="8" fill="#3fbf8f"/>
+<circle cx="128" cy="64" r="8" fill="#3fbf8f"/>
+<rect x="28" y="118" width="224" height="280" rx="6" fill="#0e161d" stroke="#2c3d4a" stroke-width="2"/>
+<rect x="46" y="138" width="188" height="30" rx="4" fill="#1f6e68" opacity=".8"/>
+<rect x="46" y="180" width="188" height="30" rx="4" fill="#1f6e68" opacity=".65"/>
+<rect x="46" y="222" width="188" height="30" rx="4" fill="#1f6e68" opacity=".5"/>
+<rect x="46" y="264" width="140" height="30" rx="4" fill="#1f6e68" opacity=".35"/>
+</g>
+</g>
+<path d="M60 820 L1540 820" stroke="#1f6e68" stroke-width="3" opacity=".55"/>
+<circle cx="380" cy="820" r="7" fill="#1f6e68"/>
+<circle cx="740" cy="820" r="7" fill="#dd8f31"/>
+<circle cx="1140" cy="820" r="7" fill="#1f6e68"/>
+<text x="60" y="865" fill="#9aa3ac" font-family="Arial" font-size="24">Smartech Technologies — Battery Storage &amp; Backup Power, Kenya</text>
+</svg>

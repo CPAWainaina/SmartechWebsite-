@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">Solar panel array illustration</title>
+<desc id="d">Clean vector illustration of a rooftop/ground-mount solar panel array with sun and grid-line motif, Smartech Technologies brand style</desc>
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#10151c"/>
+<stop offset="1" stop-color="#1c2733"/>
+</linearGradient>
+<linearGradient id="cell" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#274a63"/>
+<stop offset="1" stop-color="#152431"/>
+</linearGradient>
+<linearGradient id="sun" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#f2b25a"/>
+<stop offset="1" stop-color="#dd8f31"/>
+</linearGradient>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/>
+<circle cx="1300" cy="180" r="150" fill="url(#sun)" opacity=".14"/>
+<circle cx="1300" cy="180" r="70" fill="url(#sun)" opacity=".85"/>
+<g stroke="#dd8f31" stroke-width="2" opacity=".35">
+<path d="M0 700h1600M0 760h1600"/>
+</g>
+<!-- ground -->
+<rect x="0" y="760" width="1600" height="140" fill="#0c1015"/>
+<!-- panel array: 4 tilted panels in perspective -->
+<g>
+<!-- panel 1 -->
+<g transform="translate(120,430) rotate(-6)">
+<rect width="360" height="230" rx="10" fill="url(#cell)" stroke="#3a5670" stroke-width="4"/>
+<path d="M90 0v230M180 0v230M270 0v230M0 76h360M0 153h360" stroke="#5c7c98" stroke-width="2" opacity=".8"/>
+</g>
+<!-- panel 2 -->
+<g transform="translate(520,410) rotate(-6)">
+<rect width="360" height="230" rx="10" fill="url(#cell)" stroke="#3a5670" stroke-width="4"/>
+<path d="M90 0v230M180 0v230M270 0v230M0 76h360M0 153h360" stroke="#5c7c98" stroke-width="2" opacity=".8"/>
+</g>
+<!-- panel 3 -->
+<g transform="translate(920,430) rotate(-6)">
+<rect width="360" height="230" rx="10" fill="url(#cell)" stroke="#3a5670" stroke-width="4"/>
+<path d="M90 0v230M180 0v230M270 0v230M0 76h360M0 153h360" stroke="#5c7c98" stroke-width="2" opacity=".8"/>
+</g>
+<!-- support struts -->
+<path d="M180 660L120 780M480 660L500 780M580 640L560 780M880 660L900 780M980 660L1020 780M1280 660L1240 780" stroke="#4a6580" stroke-width="10" stroke-linecap="round"/>
+</g>
+<!-- amber current line linking panels to a node, echoing site grid-line motif -->
+<path d="M60 800 L1540 800" stroke="#dd8f31" stroke-width="3" opacity=".55"/>
+<circle cx="300" cy="800" r="7" fill="#dd8f31"/>
+<circle cx="760" cy="800" r="7" fill="#dd8f31"/>
+<circle cx="1220" cy="800" r="7" fill="#dd8f31"/>
+<text x="60" y="850" fill="#9aa3ac" font-family="Arial" font-size="24">Smartech Technologies — Solar PV Installation, Kenya</text>
+</svg>
